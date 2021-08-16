@@ -3,7 +3,7 @@
 =======
 
 ## Purpose
-A website that allows users to post blogs written by developers, leave comments and delete/edit their own posts after creation.
+A website that allows users to create a budget by adding or subtracting funds. The website allows users to attach a name to each transaction so it's easier to follow. The transactions are then placed on a graph to show change in total funds over time.
 
 ## Built With
 * JS
