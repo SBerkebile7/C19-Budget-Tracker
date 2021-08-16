@@ -5,11 +5,12 @@ const CACHE_NAME = APP_PREFIX + VERSION;
 const FILES_TO_CACHE = [
     "/",
     "/index.html",
-    "/assets/css/style.css",
-    "/assets/js/index.js",
-    "/assets/js/db.js",
-    "/assets/images/icons/icon-192x192.png",
-    "/assets/images/icons/icon-512x512.png",
+    "/manifest.json",
+    "/css/style.css",
+    "/js/index.js",
+    "/js/db.js",
+    "/icons/icon-192x192.png",
+    "/icons/icon-512x512.png",
 ];
 
 self.addEventListener('install', function(e) {
