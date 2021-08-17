@@ -16,7 +16,7 @@ A website that allows users to create a budget by adding or subtracting funds. T
 https://github.com/SBerkebile7/C19-Budget-Tracker
 
 ## Heroku Website
-https://git.heroku.com/lit-river-95103.git
+https://lit-river-95103.herokuapp.com/
 
 ## Contribution
 Made by Spencer
